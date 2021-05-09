@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPlayer</string>
+    <string name="btn_last">上一曲</string>
+    <string name="btn_star">播放</string>
+    <string name="btn_stop">暂停</string>
+    <string name="btn_next">下一曲</string>
+</resources>
